@@ -1,0 +1,20 @@
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.exe
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.pdb
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\KG_Paint.csproj.GenerateResource.Cache
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.exe
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.pdb
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\KG_Paint.csprojResolveAssemblyReference.cache
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.Player.resources
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\bin\Debug\paint.exe.config
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\bin\Debug\paint.exe
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\bin\Debug\paint.pdb
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\KG_Paint.csprojResolveAssemblyReference.cache
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\paint.Form1.resources
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\paint.Player.resources
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\paint.Properties.Resources.resources
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\KG_Paint.csproj.GenerateResource.Cache
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\paint.exe
+F:\Университет\3 Курс\КГ\Paint_Final_version\paint\obj\Debug\paint.pdb

@@ -1,0 +1,18 @@
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\bin\Debug\paint.exe
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\bin\Debug\paint.pdb
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.exe
+C:\Users\Олег\Desktop\по предметам 5 симестр\компьютерная графика\Прога\трах\paint\paint\obj\Debug\paint.pdb
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.exe
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.pdb
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.exe
+C:\Users\Hichas\Desktop\paint\paint\bin\Debug\paint.pdb
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Hichas\Desktop\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
